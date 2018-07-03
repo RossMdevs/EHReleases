@@ -23,5 +23,5 @@ Build the installer (optional): `node installers/windows/createinstaller.js`
 
 
 
-:
+
 
