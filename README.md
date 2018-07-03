@@ -10,9 +10,7 @@
 ## Installer Instructions:
 Open Installer
 
-Navigate to AppData\Local\ehdesktop
-
-Open EHDesktop
+Open EHDesktop from your Desktop!
 
 
  ## Building Locally -- Developers Only!
