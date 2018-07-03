@@ -15,7 +15,7 @@ Navigate to AppData\Local\ehdesktop
 Open EHDesktop
 
 
- ## Building -- Developers Only!
+ ## Building Locally -- Developers Only!
 Build the project: `electron-packager . --overwrite --icon=assets/icons/win/icon.ico --out=release-builds`
 Build the installer (optional): `node installers/windows/createinstaller.js`
 
