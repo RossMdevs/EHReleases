@@ -12,6 +12,7 @@ Open Installer
 
 Open EHDesktop from your Desktop!
 
+## ASK For the Source Code!
 
  ## Building Locally -- Developers Only!
 Build the project: `electron-packager . --overwrite --icon=assets/icons/win/icon.ico --out=release-builds`
